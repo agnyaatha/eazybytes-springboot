@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eazyschool2" />
         <module name="eazyschool1" />
+        <module name="eazyschool4" />
         <module name="eazyschool3" />
       </profile>
     </annotationProcessing>
@@ -18,6 +19,7 @@
       <module name="eazyschool1" options="-parameters" />
       <module name="eazyschool2" options="-parameters" />
       <module name="eazyschool3" options="-parameters" />
+      <module name="eazyschool4" options="-parameters" />
     </option>
   </component>
 </project>
