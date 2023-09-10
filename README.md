@@ -1,5 +1,6 @@
 # eazybytes-springboot
 Demo application for spring boot
 
-`eazybytes1` - Springboot, Thymleaf, Lombok\
-`eazybytes2` - Validation, PathVariable, RequestParam
+`eazyschool1` - Springboot, Thymleaf, Lombok\
+`eazyschool2` - Validation, PathVariable, RequestParam
+`eazyschool3` - Bean Scopes - @ApplicationScope, @SessionScope, @RequestScope
