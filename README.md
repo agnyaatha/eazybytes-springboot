@@ -6,4 +6,5 @@ Demo application for spring boot
 `eazyschool3` - Bean Scopes - @ApplicationScope, @SessionScope, @RequestScope\
 `eazyschool4` - Spring security, InMemoryAuthentication, Login, Dashboard, Logout\
 `eazyschool5` - Exception handling - @ControllerAdvice, @ExceptionHandler\
-`eazyschool6` - Solution to CSRF problems
+`eazyschool6` - Solution to CSRF problems\
+`eazyschool7` - JDBC and Hibernate
