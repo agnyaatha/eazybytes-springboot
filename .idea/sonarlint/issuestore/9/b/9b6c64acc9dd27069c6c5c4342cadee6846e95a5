@@ -1,0 +1,6 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(È½ëîúÿÿÿÿ8éÜÏÇ§1
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ã¤£’8ªÂÏÇ§1
+s
+java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.PathVariable'.(¹ûñÅşÿÿÿÿ8ôÜÏÇ§1
