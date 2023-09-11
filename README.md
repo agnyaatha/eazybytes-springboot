@@ -8,4 +8,5 @@ Demo application for spring boot
 `eazyschool5` - Exception handling - @ControllerAdvice, @ExceptionHandler\
 `eazyschool6` - Solution to CSRF problems\
 `eazyschool7` - JDBC and Hibernate\
-`eazyschool8` - Display Holidays from DB & Demo of BeanPropertyRowMapper
+`eazyschool8` - Display Holidays from DB & Demo of BeanPropertyRowMapper\
+`eazyschool9` - Migrating from H2 DB to MySQL DB, CrudRepository

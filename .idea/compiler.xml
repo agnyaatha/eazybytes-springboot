@@ -13,6 +13,7 @@
         <module name="eazyschool5" />
         <module name="eazyschool4" />
         <module name="eazyschool3" />
+        <module name="eazyschool9" />
         <module name="eazyschool8" />
         <module name="eazyschool7" />
       </profile>
@@ -28,6 +29,7 @@
       <module name="eazyschool6" options="-parameters" />
       <module name="eazyschool7" options="-parameters" />
       <module name="eazyschool8" options="-parameters" />
+      <module name="eazyschool9" options="-parameters" />
     </option>
   </component>
 </project>
