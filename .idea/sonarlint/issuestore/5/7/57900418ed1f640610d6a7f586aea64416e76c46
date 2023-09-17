@@ -1,0 +1,9 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "festival" 3 times.(…ø³Ø8Â¾Ä ¨1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "federal" 3 times.(ÝÚ†¸þÿÿÿÿ8Ã¾Ä ¨1
+o
+java:S6204&"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8Ÿ•Å ¨1
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ã¤£’8ÏóÅ ¨1

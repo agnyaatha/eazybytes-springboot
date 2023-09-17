@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eazyschool2" />
+        <module name="eazyschool10" />
         <module name="eazyschool1" />
         <module name="eazyschool6" />
         <module name="eazyschool5" />
@@ -22,6 +23,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="eazyschool1" options="-parameters" />
+      <module name="eazyschool10" options="-parameters" />
       <module name="eazyschool2" options="-parameters" />
       <module name="eazyschool3" options="-parameters" />
       <module name="eazyschool4" options="-parameters" />
