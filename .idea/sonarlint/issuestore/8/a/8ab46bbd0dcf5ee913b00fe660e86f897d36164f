@@ -1,0 +1,11 @@
+
+y
+java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "contactMsgs".(ÔÚ¨İ
+i
+java:S3655)"NCall "contact.isPresent()" or "!contact.isEmpty()" before accessing the value.(óûÿÿÿÿ
+R
+java:S2589"7Remove this expression which always evaluates to "true"(Ê—ÊŸùÿÿÿÿ
+R
+java:S2589*"7Remove this expression which always evaluates to "true"(ÚîÂëøÿÿÿÿ
+B
+java:S1602&",Remove useless curly braces around statement(âóŸÂ
