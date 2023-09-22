@@ -151,8 +151,6 @@ Teazyschool9/src/main/java/com/example/eazyschool/security/ProjectSecurityConfig
 Keazyschool9/src/main/java/com/example/eazyschool/EazyschoolApplication.java,e\1\e1becb9652495230ad0524f49c4c96749e9cd666
 Ç
 Reazyschool9/src/main/java/com/example/eazyschool/repository/ContactRepository.java,6\b\6ba1b0cb7c935da3c9f0a9a9799d12c6231ef80f
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 D
 eazyschool10/pom.xml,5\4\54693769cc9c2f6f35e42b836b02668999ccb7fc
 {
@@ -213,8 +211,6 @@ v
 Feazyschool11/src/main/java/com/example/eazyschool/model/EazyClass.java,a\e\aeceded8a16c14b6dd1283674d825abecfc76d08
 t
 Deazyschool11/src/main/java/com/example/eazyschool/model/Courses.java,c\1\c1cb6a36905d1aa9c89a4ac1321941c1bbc643a6
-s
-Ceazyschool11/src/main/java/com/example/eazyschool/model/Person.java,9\4\94a03f877f1b6cc1d05fad0b708ab00c87459bb8
 t
 Deazyschool11/src/main/java/com/example/eazyschool/model/Profile.java,1\a\1a2b659e94a9fcc63ebfed74f5e9a7aa5a1d2fa6
 r
@@ -251,3 +247,27 @@ Ueazyschool11/src/main/java/com/example/eazyschool/controller/DashboardControlle
 [eazyschool11/src/main/java/com/example/eazyschool/controller/GlobalExceptionController.java,8\4\8403124e3f27d7ff5d8cfe570e70531171b6e1a9
 Ñ
 Teazyschool11/src/main/java/com/example/eazyschool/controller/HolidaysController.java,7\3\733e3725285b7e8f1c27f157432d285570fab804
+|
+Leazyschool12/src/main/java/com/example/eazyschool/EazyschoolApplication.java,9\3\93022d42d4205b108299f492da1170fb3386d084
+Ç
+Reazyschool12/src/main/java/com/example/eazyschool/repository/PersonRepository.java,c\1\c1c2f979b93a726da72cbaef4a21ad354b2234f5
+õ
+keazyschool12/src/main/java/com/example/eazyschool/security/EazySchoolUsernamePwdAuthenticationProvider.java,6\3\630087786cf8f884482f8f29dd37730630d672ab
+|
+Leazyschool11/src/main/java/com/example/eazyschool/EazyschoolApplication.java,4\1\418a384536ac52c44b9ea379df5dddd98eadb661
+s
+Ceazyschool11/src/main/java/com/example/eazyschool/model/Person.java,9\4\94a03f877f1b6cc1d05fad0b708ab00c87459bb8
+Å
+Qeazyschool12/src/main/java/com/example/eazyschool/controller/AdminController.java,9\e\9e2c64ce70ec4a26b4544db6dbd480cf538ccfd7
+É
+Seazyschool12/src/main/java/com/example/eazyschool/repository/ContactRepository.java,9\b\9b7a723f72552895ec4d5f9b69ac78668e66d3af
+Ö
+Ueazyschool12/src/main/java/com/example/eazyschool/security/ProjectSecurityConfig.java,f\e\feb42813438de0a48d48e7ace5680a346383b6e2
+Ö
+Ueazyschool12/src/main/java/com/example/eazyschool/controller/DashboardController.java,9\0\9051bdfe54cc450f348016e6e36b7648890d7efc
+}
+Meazyschool12/src/main/java/com/example/eazyschool/service/ContactService.java,7\8\78b1a71c2536423d9098112a928a1ad9a3eff84f
+t
+Deazyschool12/src/main/java/com/example/eazyschool/model/Contact.java,7\f\7fa32d65e33805beca6bf35cbd08910985c520c1
+É
+Seazyschool12/src/main/java/com/example/eazyschool/controller/ContactController.java,5\2\520996864d3da6c3af6355451a59e165acc20a90

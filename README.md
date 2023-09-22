@@ -9,4 +9,6 @@ Demo application for spring boot
 `eazyschool6` - Solution to CSRF problems\
 `eazyschool7` - JDBC and Hibernate\
 `eazyschool8` - Display Holidays from DB & Demo of BeanPropertyRowMapper\
-`eazyschool9` - Migrating from H2 DB to MySQL DB, CrudRepository
+`eazyschool9` - Migrating from H2 DB to MySQL DB, CrudRepository\
+`eazyschool10` - Custom Validation, OneToOne relationship\
+`eazyschool11` - OneToMany, ManyToMany relationships\

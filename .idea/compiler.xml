@@ -18,6 +18,7 @@
         <module name="eazyschool9" />
         <module name="eazyschool8" />
         <module name="eazyschool7" />
+        <module name="eazyschool12" />
       </profile>
     </annotationProcessing>
   </component>
@@ -26,6 +27,7 @@
       <module name="eazyschool1" options="-parameters" />
       <module name="eazyschool10" options="-parameters" />
       <module name="eazyschool11" options="-parameters" />
+      <module name="eazyschool12" options="-parameters" />
       <module name="eazyschool2" options="-parameters" />
       <module name="eazyschool3" options="-parameters" />
       <module name="eazyschool4" options="-parameters" />
