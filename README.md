@@ -12,4 +12,7 @@ Demo application for spring boot
 `eazyschool9` - Migrating from H2 DB to MySQL DB, CrudRepository\
 `eazyschool10` - Custom Validation, OneToOne relationship\
 `eazyschool11` - OneToMany, ManyToMany relationships\
-`eazyschool12` - @Query, @NamedQuery, @NamedNativeQuery, Pagination, Sorting
+`eazyschool12` - @Query, @NamedQuery, @NamedNativeQuery, Pagination, Sorting\
+`eazyschool13` - Rest Services\
+`consumer14` - Consuming Rest Services using OpenFeign, WebClient and RestTemplate\
+
