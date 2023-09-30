@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.eazyschool.consumer</groupId>
-	<artifactId>eazyschool14</artifactId>
+	<artifactId>consumer14</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>consumer</name>
 	<description>Demo project for Spring Boot consumer</description>

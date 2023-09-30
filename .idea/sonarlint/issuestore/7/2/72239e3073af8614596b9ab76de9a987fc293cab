@@ -1,13 +1,0 @@
-
-V	java:S125"<This block of commented-out lines of code should be removed.( Ø…Ÿıÿÿÿÿ
-V	java:S125"<This block of commented-out lines of code should be removed.( Ø…Ÿıÿÿÿÿ
-g
-java:S1612'"LReplace this lambda with method reference 'AbstractHttpConfigurer::disable'.(å‚¢ªıÿÿÿÿ
-Q	java:S1254"<This block of commented-out lines of code should be removed.(¶áì°
-Q
-java:S6437I"6Revoke and change this password, as it is compromised.(ÇÖÊûÿÿÿÿ
-Q
-java:S6437P"6Revoke and change this password, as it is compromised.(ÇÖÊûÿÿÿÿ
-w
-java:S1128
-"aRemove this unused import 'org.springframework.security.crypto.factory.PasswordEncoderFactories'.(—¶¼é

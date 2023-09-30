@@ -1,9 +1,0 @@
-
-p
-java:S1192"NDefine a constant instead of duplicating this literal "register.html" 3 times.(ˆãäèùÿÿÿÿ8ÆÏëÌ¨1
-j
-java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ş‡Â²şÿÿÿÿ8îéÌ¨1
-g
-java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(€ö®°8•îéÌ¨1
-q
-java:S1128"ORemove this unused import 'com.example.eazyschool.repository.PersonRepository'.(Ò™úøÿÿÿÿ8öÁÃª1

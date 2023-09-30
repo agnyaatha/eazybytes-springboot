@@ -1,13 +1,0 @@
-
-_
-java:S1192"IDefine a constant instead of duplicating this literal "festival" 3 times.(…ø³Ø
-c
-java:S1192"HDefine a constant instead of duplicating this literal "federal" 3 times.(ÝÚ†¸þÿÿÿÿ
-h
-java:S6204&"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
-h
-java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ã¤£’
-l
-java:S1128"QRemove this unused import 'org.springframework.web.bind.annotation.RequestParam'.(Â¬À·ùÿÿÿÿ
-H
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
