@@ -15,4 +15,5 @@ Demo application for spring boot
 `eazyschool12` - @Query, @NamedQuery, @NamedNativeQuery, Pagination, Sorting\
 `eazyschool13` - Rest Services\
 `consumer14` - Consuming Rest Services using OpenFeign, WebClient and RestTemplate\
+`eazyschool14` - Data Rest & HAL Explorer, Logging, Actuator\
 

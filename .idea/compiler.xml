@@ -14,15 +14,19 @@
         <module name="eazyschool6" />
         <module name="eazyschool5" />
         <module name="eazyschool4" />
+        <module name="eazyschool14 (2) (com.example)" />
         <module name="eazyschool3" />
         <module name="eazyschool9" />
         <module name="eazyschool8" />
         <module name="eazyschool7" />
+        <module name="eazyschool14 (1) (com.eazyschool.consumer)" />
         <module name="eazyschool12" />
-        <module name="consumer" />
         <module name="eazyschool13" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
@@ -32,6 +36,8 @@
       <module name="eazyschool11" options="-parameters" />
       <module name="eazyschool12" options="-parameters" />
       <module name="eazyschool13" options="-parameters" />
+      <module name="eazyschool14 (1) (com.eazyschool.consumer)" options="-parameters" />
+      <module name="eazyschool14 (2) (com.example)" options="-parameters" />
       <module name="eazyschool2" options="-parameters" />
       <module name="eazyschool3" options="-parameters" />
       <module name="eazyschool4" options="-parameters" />
